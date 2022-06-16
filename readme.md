@@ -169,7 +169,7 @@ output = {
         }  
 ```
 The window of real-time simulation with aggregated data would look like this
-![alt text]([http://url/to/img.pn](https://github.com/arifbintanga/myiotcodingtest/blob/main/nomor_3.jpg))
+![alt text](nomor_3.jpg)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
